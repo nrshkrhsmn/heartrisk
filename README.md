@@ -1,7 +1,8 @@
-# Welcome to streamlit
+# Heart Disease Risk Prediction Streamlit App
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+This is a simple Streamlit web application that allows users to predict the likelihood of heart risk disease based on input features. The prediction is made using a machine learning model that has been trained on heart disease data.
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+[Live Website](https://grp17heartrisk.streamlit.app/)
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+Truly,
+# Group 17
